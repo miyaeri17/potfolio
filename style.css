@@ -32,7 +32,7 @@ li {
    
     background-size:cover;
     height: 500px;
-     background: rgba(255,255,255,0.5)
+   
 }
 .container{
     width:1170px;
@@ -44,14 +44,14 @@ li {
 .container h1{
     font-family:"fantasy";
     font-size: 100px;
-    color:black;
+    color:white;
     letter-spacing:5px;
     
 }
 .container h2{
     font-family:"fantasy";
     font-size: 30px;
-    color:black;
+    color:white;
     letter-spacing:10px;
     opacity:1;
 }
